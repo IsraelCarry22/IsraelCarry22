@@ -14,3 +14,13 @@ retandome a mi mismo en pequeños retos de programacion y mejorando mi logica.
 ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=black)
 
+
+
+# Frameworks: ###
+![Static Badge](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=512BD4&labelColor=black)
+
+
+
+# Bases de datos: ###
+![Static Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927&labelColor=black)
+
