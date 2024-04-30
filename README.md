@@ -32,7 +32,7 @@ Soy un estudiante de programacion interesado en el desarrollo backend, mi intere
   <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Smoke%20%2B%20Mirrors.jpg" alt="Portada de album" width="175">
   <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Superclean%20Vol%20II.jpg" alt="Portada de album" width="175">
   <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Viva%20la%20Vida%20Or%20Death%20And%20All%20His%20Friends.jpg" alt="Portada de album" width="175">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Night%20Visions.jpg" alt="Portada de album" width="175">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/X%26Y.jpg" alt="Portada de album" width="175">
 </span>
 
 
