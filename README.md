@@ -3,9 +3,8 @@
 - Profesion: Estudiante de ingenieria informatica.
 - Nacionalidad: Mexicana.
 - Contactos:</br>
-![gmail](https://img.shields.io/badge/israelcarreon992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)
-</br>
-- Redes sociales:</br>
+![gmail](https://img.shields.io/badge/israelcarreon992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)</br>
+- Contactos:</br>
 
 Soy un estudiante de ingenieria en informatica y me dedico a crear aplicaciones en el lengauje C# en su entrono de .NET.
 
