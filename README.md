@@ -20,8 +20,7 @@ Soy un estudiante de programacion interesado en el desarrollo backend, mi intere
   - Programar pequeños scripts.
   - Armar rompecabezas.
   - Jugar a los bolos, al billar.
-  - Jugar videojuegos retro de nintendo.
-</br>
+  - Jugar videojuegos retro de nintendo.</br>
 - Gustos musicales:
   ![Portada del álbum](/A Rush Of blood To The Head.jpg)
 
