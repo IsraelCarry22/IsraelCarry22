@@ -11,8 +11,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-IsraelMoncada-F22F46?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/jesus-isrrael-carreon-moncada-108b63292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)</br>
 
 ## Algo sobre mi:
-- Mi historia: Soy un estudiante de programacion interesado en el desarrollo backend, mi interes empieza desde la preparatoria al aprender el lenguaje C y posteriormente manejar bases de datos y diseñar paginas web, desde chico tuve la curiosidad sobre como realmente funcionan los programas y las aplicaciones que usamos dia con dia, actualmete estudio en la univerisdad y disfruto la compañia de mis amigos, pasando buenos momentos antes de que llege el dia de la graduacion.
-- Hobbies: tomo fotografias de atardeceres, me gusta cantar, participar en actividades para el bien de la comunidad, programar pequeños scripts, armar rompecabezas, jugar a los bolor, al billar, y me gusta jugar videojuegos retro de nintendo, me encanta la saga de Super mario bros, The legend of zelda, Metroid, y otros mas.
+Soy un estudiante de programacion interesado en el desarrollo backend, mi interes empieza desde la preparatoria al aprender el lenguaje C y posteriormente manejar bases de datos y diseñar paginas web, desde chico tuve la curiosidad sobre como realmente funcionan los programas y las aplicaciones que usamos dia con dia, actualmete estudio en la univerisdad y disfruto la compañia de mis amigos, pasando buenos momentos antes de que llege el dia de la graduacion.
+</br>
+- Hobbies:
+  - Tomo fotografias de atardeceres.
+  - Me gusta cantar.
+  - Participar en actividades para el bien de la comunidad.
+  - Programar pequeños scripts.
+  - Armar rompecabezas.
+  - Jugar a los bolos, al billar.
+  - Jugar videojuegos retro de nintendo.
 
 
 ## Habilidades de software:
