@@ -28,12 +28,16 @@
 ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white&labelColor=black)
 ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20code&logoColor=white&labelColor=black)
 
-
 ## 💼 Habilidades de trabajo:
-- Trabajo en equipo.
-- Liderazgo.
-- Compañerismo.
-- Responsabilidad.
+- Comunicacion efectiva.
+- Empatia.
+- Trabajar en equipo.
+- Adaptabilidad.
+- Resolucion de problemas.
+- Entusiasmo.
+- Resolución de Conflictos.
+- Gestion de tiempos y Organizacion.
+- Pensamiento Crítico.
 
 ## 🎓 Educación:
 - Universidad: Tecnologico Nacional de Mexico Campus Monclova.
