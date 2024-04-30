@@ -28,6 +28,12 @@
 
 
 ## Habilidades de trabajo:
+- Trabajo en equipo.
+- Liderazgo.
+- Compañerismo.
+- Responsabilidad.
 
-
+## Educación:
+- Universidad: Tecnologico Nacional de Mexico Campus Monclova.
+- Certificaciones: Ninguna (al momento).
 
