@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@IsraelMoncada-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black)](https://www.instagram.com/israelmoncada05/)
 [![TikTok](https://img.shields.io/badge/TikTok-@IsraelMoncada-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=black)]()
 [![Twitter](https://img.shields.io/badge/Twitter-@IsraelMoncada-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-IsraelMoncada-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-IsraelMoncada-F22F46?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)]()
 
 Soy un estudiante de ingenieria en informatica y me dedico a crear aplicaciones en el lengauje C# en su entrono de .NET.
 
