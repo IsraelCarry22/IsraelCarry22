@@ -5,7 +5,12 @@
 - Contactos:</br>
 ![gmail](https://img.shields.io/badge/israelcarreon992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)</br>
 - Redes Sociales:</br>
-![Facebook](https://img.shields.io/badge/%40Israel%20Moncada-0866FF?style=for-the-badge&logo=Facebook&logoColor=white&label=Facebook&labelColor=black&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61550055507447%26mibextid%3DZbWKwL)
+[![Facebook](https://img.shields.io/badge/%40Israel%20Moncada-0866FF?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=101010)
+[![Instagram](https://img.shields.io/badge/%40Israel%20Moncada-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=101010)
+[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
+[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
+[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
 
 
 
