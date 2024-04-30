@@ -21,7 +21,8 @@ Soy un estudiante de programacion interesado en el desarrollo backend, mi intere
   - Armar rompecabezas.
   - Jugar a los bolos, al billar.
   - Jugar videojuegos retro de nintendo.
-
+</br>
+- Gustos musicales:
 
 ## Habilidades de software:
 - Lenguajes:</br>
