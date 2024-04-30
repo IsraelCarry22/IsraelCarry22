@@ -23,17 +23,17 @@ Soy un estudiante de programacion interesado en el desarrollo backend, mi intere
   - Jugar videojuegos retro de nintendo.</br>
 - Gustos musicales:
 <span>
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="200">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
 </span>
 
 
