@@ -10,7 +10,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-@IsraelMoncada-32E476?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=black)](https://www.tiktok.com/@israelcm22?lang=es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-IsraelMoncada-F22F46?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://www.linkedin.com/in/jesus-isrrael-carreon-moncada-108b63292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)</br>
 
-## Habilidades de software:
+## 🌐 Habilidades de software:
 - Lenguajes:</br>
 ![CSharp](https://img.shields.io/badge/C%20Sharp-512BD4?style=for-the-badge&logo=CSharp&logoColor=white&labelColor=black)
 ![CPlushPlush](https://img.shields.io/badge/C%20Plush%20Plush-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white&labelColor=black)
@@ -26,17 +26,17 @@
 ![git](https://img.shields.io/badge/Git-0866FF?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![github](https://img.shields.io/badge/GitHub-179287?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 
-## Habilidades de trabajo:
+## 💼 Habilidades de trabajo:
 - Trabajo en equipo.
 - Liderazgo.
 - Compañerismo.
 - Responsabilidad.
 
-## Educación:
+## 🎓 Educación:
 - Universidad: Tecnologico Nacional de Mexico Campus Monclova.
 - Certificaciones: Ninguna (al momento).
 
-## Algo sobre mi:
+## 🙂 Algo sobre mi:
 Soy un estudiante de programacion interesado en el desarrollo backend, mi interes empieza desde la preparatoria al aprender el lenguaje C y posteriormente manejar bases de datos y diseñar paginas web, desde chico tuve la curiosidad sobre como realmente funcionan los programas y las aplicaciones que usamos dia con dia, actualmete estudio en la univerisdad y disfruto la compañia de mis amigos, pasando buenos momentos antes de que llege el dia de la graduacion.
 </br>
 - Hobbies:
