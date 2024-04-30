@@ -25,6 +25,9 @@
 - Extras:</br>
 ![git](https://img.shields.io/badge/Git-0866FF?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![github](https://img.shields.io/badge/GitHub-179287?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
+![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white&labelColor=black)
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20code&logoColor=white&labelColor=black)
+
 
 ## 💼 Habilidades de trabajo:
 - Trabajo en equipo.
