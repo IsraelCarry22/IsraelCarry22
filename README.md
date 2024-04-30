@@ -22,7 +22,9 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white&labelColor=black)</br>
 - Base de datos:</br>
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white&labelColor=black)
+- Extras:</br>
 
-## Encuentrame en: 
+## Habilidades de trabajo:
+
 
 
