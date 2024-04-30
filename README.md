@@ -4,6 +4,9 @@
 - Nacionalidad: Mexicana.
 - Contactos:</br>
 ![gmail](https://img.shields.io/badge/israelcarreon992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)
+-Redes Sociales: </br>
+![Facebook](https://img.shields.io/badge/%40Israel%20Moncada-0866FF?style=for-the-badge&logo=Facebook&logoColor=white&label=Facebook&labelColor=black&link=https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D61550055507447%26mibextid%3DZbWKwL)
+
 
 
 Soy un estudiante de ingenieria en informatica y me dedico a crear aplicaciones en el lengauje C# en su entrono de .NET.
