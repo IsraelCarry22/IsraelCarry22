@@ -56,14 +56,14 @@ Soy un estudiante de programacion interesado en el desarrollo backend, mi intere
   - Jugar videojuegos retro de nintendo.</br>
 - Gustos musicales:
 <span>
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="150">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Coming%20Up%20For%20Air.jpg" alt="Portada de album" width="150">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/In%20A%20Perfect%20World.jpg" alt="Portada de album" width="150">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Live%20in%20Buenos%20Aires.jpg" alt="Portada de album" width="150">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Night%20Visions.jpg" alt="Portada de album" width="150">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Random%20Access%20Memories.jpg" alt="Portada de album" width="150">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Smoke%20%2B%20Mirrors.jpg" alt="Portada de album" width="150">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Superclean%20Vol%20II.jpg" alt="Portada de album" width="150">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Viva%20la%20Vida%20Or%20Death%20And%20All%20His%20Friends.jpg" alt="Portada de album" width="150">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/X%26Y.jpg" alt="Portada de album" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="125">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Coming%20Up%20For%20Air.jpg" alt="Portada de album" width="125">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/In%20A%20Perfect%20World.jpg" alt="Portada de album" width="125">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Live%20in%20Buenos%20Aires.jpg" alt="Portada de album" width="125">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Night%20Visions.jpg" alt="Portada de album" width="125">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Random%20Access%20Memories.jpg" alt="Portada de album" width="125">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Smoke%20%2B%20Mirrors.jpg" alt="Portada de album" width="125">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Superclean%20Vol%20II.jpg" alt="Portada de album" width="125">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Viva%20la%20Vida%20Or%20Death%20And%20All%20His%20Friends.jpg" alt="Portada de album" width="125">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/X%26Y.jpg" alt="Portada de album" width="125">
 </span>
