@@ -24,7 +24,7 @@ Soy un estudiante de programacion interesado en el desarrollo backend, mi intere
 - Gustos musicales:
   ![[Portada del álbum]([/A Rush Of blood To The Head.jpg](https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg))](https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg)
   <p align="center">
-  <img src="[https://example.com/imagen.png](https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg))](https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg)" alt="Descripción de la imagen" width="150">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Descripción de la imagen" width="150">
 </p>
 
 
