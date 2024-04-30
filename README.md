@@ -44,7 +44,8 @@
 - Certificaciones: Ninguna (al momento).
 
 ## 🎫 Contenio extra:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsraelCarry22)](https://github.com/IsraelCarry22/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=IsraelCarry22"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelCarry22&layout=compact"/>
 
 ## 🙂 Algo sobre mi:
 Soy un estudiante de programacion interesado en el desarrollo backend, mi interes empieza desde la preparatoria al aprender el lenguaje C y posteriormente manejar bases de datos y diseñar paginas web, desde chico tuve la curiosidad sobre como realmente funcionan los programas y las aplicaciones que usamos dia con dia, actualmete estudio en la univerisdad y disfruto la compañia de mis amigos, pasando buenos momentos antes de que llege el dia de la graduacion.
