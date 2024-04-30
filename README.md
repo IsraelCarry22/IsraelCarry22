@@ -23,6 +23,8 @@ Soy un estudiante de programacion interesado en el desarrollo backend, mi intere
   - Jugar videojuegos retro de nintendo.
 </br>
 - Gustos musicales:
+  ![Portada del álbum](/A Rush Of blood To The Head.jpg)
+
 
 ## Habilidades de software:
 - Lenguajes:</br>
