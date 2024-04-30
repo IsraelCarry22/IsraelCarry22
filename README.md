@@ -1,5 +1,9 @@
 # Hola, mi nombre es Israel 👋🏻 ###
-- Nombre: [Jesus Israel Carreón Moncada]
+- Nombre: Jesus Israel Carreón Moncada.
+- Profesion: Estudiante de ingenieria informatica.
+- Nacionalidad: Mexicana.
+- Contacto: ![gmail](https://img.shields.io/badge/israelcarreon992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)
+
 
 Soy un estudiante de ingenieria en informatica y me dedico a crear aplicaciones en el lengauje C# en su entrono de .NET.
 
@@ -20,6 +24,5 @@ retandome a mi mismo en pequeños retos de programacion y mejorando mi logica.
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white&labelColor=black)
 
 ## Encuentrame en: 
-![gmail](https://img.shields.io/badge/israelcarreon992%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)
 
 
