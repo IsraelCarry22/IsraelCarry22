@@ -24,9 +24,9 @@ Soy un estudiante de programacion interesado en el desarrollo backend, mi intere
 - Gustos musicales:
 <span>
   <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="175">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="175">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="175">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="175">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Coming%20Up%20For%20Air.jpg" alt="Portada de album" width="175">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/In%20A%20Perfect%20World.jpg" alt="Portada de album" width="175">
+  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Live%20in%20Buenos%20Aires.jpg" alt="Portada de album" width="175">
   <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="175">
 </span>
 
