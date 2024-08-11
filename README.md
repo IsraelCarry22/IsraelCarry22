@@ -17,12 +17,9 @@
 - Frameworks:</br>
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white&labelColor=black)</br>
 - Base de datos:</br>
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white&labelColor=black)
 - Extras:</br>
 ![git](https://img.shields.io/badge/Git-0866FF?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
 ![github](https://img.shields.io/badge/GitHub-179287?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
-![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=Visual%20Studio&logoColor=white&labelColor=black)
-![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20code&logoColor=white&labelColor=black)
 
 ## 💼 Habilidades de trabajo:
 - Comunicacion efectiva.
