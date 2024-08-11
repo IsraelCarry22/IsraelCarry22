@@ -11,10 +11,17 @@
 
 ## 🌐 Habilidades de software:
 - Lenguajes:</br>
-![CSHARP](https://img.shields.io/badge/C%23%20(CSharp)-512BD4?style=for-the-badge&logo=C%20Sharp)</br>
-- Frameworks:</br></br>
-- Base de datos:</br>
-- Extras:</br>
+![CSHARP](https://img.shields.io/badge/C%23%20(CSharp)-512BD4?style=for-the-badge&logo=C%20Sharp)
+![VISUALBASIC](https://img.shields.io/badge/Visual%20Basic-%23008FC7?style=for-the-badge)
+![CPLUSPLUS](https://img.shields.io/badge/C%2B%2B%20(CPlusPlus)-%2300599C?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge)
+</br>
+- Frameworks:</br>
+![NET](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge)
+</br>
+- Base de datos/Servidores:</br>
+![MYSQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge)
+![Plesk](https://img.shields.io/badge/Plesk-%230085C0?style=for-the-badge)
 
 ## 💼 Habilidades de trabajo:
 - Comunicacion efectiva.
