@@ -11,16 +11,10 @@
 
 ## 🌐 Habilidades de software:
 - Lenguajes:</br>
-![CSHARP](https://img.shields.io/badge/C%23%20(CSharp)-512BD4?style=for-the-badge&logo=C%20Sharp)
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)</br>
-- Frameworks:</br>
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white&labelColor=black)</br>
+![CSHARP](https://img.shields.io/badge/C%23%20(CSharp)-512BD4?style=for-the-badge&logo=C%20Sharp)</br>
+- Frameworks:</br></br>
 - Base de datos:</br>
 - Extras:</br>
-![git](https://img.shields.io/badge/Git-0866FF?style=for-the-badge&logo=git&logoColor=white&labelColor=black)
-![github](https://img.shields.io/badge/GitHub-179287?style=for-the-badge&logo=github&logoColor=white&labelColor=black)
 
 ## 💼 Habilidades de trabajo:
 - Comunicacion efectiva.
