@@ -11,6 +11,8 @@
 
 ## 🌐 Habilidades de software:
 - Lenguajes:</br>
+![CSHARP](https://img.shields.io/badge/C%23%20(CSharp)-512BD4?style=for-the-badge&logo=C%20Sharp)
+
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=black)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)</br>
 - Frameworks:</br>
