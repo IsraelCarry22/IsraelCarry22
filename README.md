@@ -15,6 +15,10 @@
 ![VISUALBASIC](https://img.shields.io/badge/Visual%20Basic-%23008FC7?style=for-the-badge)
 ![CPLUSPLUS](https://img.shields.io/badge/C%2B%2B%20(CPlusPlus)-%2300599C?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge)
+
 
 - Frameworks:</br>
 ![NET](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge)
