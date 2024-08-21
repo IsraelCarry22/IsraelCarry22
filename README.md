@@ -11,9 +11,10 @@
 
 ## 🌐 Habilidades de software:
 - Lenguajes:</br>
-![CSHARP](https://img.shields.io/badge/C%23%20(CSharp)-512BD4?style=for-the-badge&logo=C%20Sharp)
+![C](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge)
+![CSHARP](https://img.shields.io/badge/C%23%20-512BD4?style=for-the-badge&logo=C%20Sharp)
 ![VISUALBASIC](https://img.shields.io/badge/Visual%20Basic-%23008FC7?style=for-the-badge)
-![CPLUSPLUS](https://img.shields.io/badge/C%2B%2B%20(CPlusPlus)-%2300599C?style=for-the-badge)
+![CPLUSPLUS](https://img.shields.io/badge/C%2B%2B%20-%2300599C?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge)
