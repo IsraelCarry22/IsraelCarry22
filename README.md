@@ -19,6 +19,8 @@
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge)
+![JAVA](https://img.shields.io/badge/Java-%23F40D12?style=for-the-badge)
+![PYTHON](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge)
 
 - Frameworks:</br>
 ![NET](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge)
