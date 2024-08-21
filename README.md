@@ -50,26 +50,13 @@
 ## 🙂 Algo sobre mi:
 Soy un estudiante de programacion interesado en el desarrollo backend, mi interes empieza desde la preparatoria al aprender el lenguaje C y posteriormente manejar bases de datos y diseñar paginas web, desde chico tuve la curiosidad sobre como realmente funcionan los programas y las aplicaciones que usamos dia con dia, actualmete estudio en la univerisdad y disfruto la compañia de mis amigos, pasando buenos momentos antes de que llege el dia de la graduacion.
 </br>
-- Hobbies:
-  - Me gusta tomar fotografias de atardeceres.
-  - Me gusta cantar (no soy buen cantante).
+- Pasiones:
+  - Tomo fotografias de atardeceres/paisajes/lugares.
+  - Canto (no soy buen cantante).
   - Ayudo en actividades para el bien de la comunidad.
-  - Programo pequeños scripts.
+  - Programo aveces pequeños scripts.
+  - Me gustan las pruebas logicas.
   - Amo armar rompecabezas y resolver puzzels.
-  - Me gusta jugar a los bolos y al billar con amigos.
-  - Me gustan los videojuegos retro de nintendo, como Mario, Zelda, Metroid, etc.</br>
-- Albums/Artistas musicales:
-  - Coldplay, Imagine dragons, The Marias, Kodaline, Gorillaz, Daft Punk, Cuco, Joji.
-<span>
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/A%20Rush%20Of%20blood%20To%20The%20Head.jpg" alt="Portada de album" width="90">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Coming%20Up%20For%20Air.jpg" alt="Portada de album" width="90">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/In%20A%20Perfect%20World.jpg" alt="Portada de album" width="90">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Live%20in%20Buenos%20Aires.jpg" alt="Portada de album" width="90">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Night%20Visions.jpg" alt="Portada de album" width="90">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Random%20Access%20Memories.jpg" alt="Portada de album" width="90">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Smoke%20%2B%20Mirrors.jpg" alt="Portada de album" width="90">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Superclean%20Vol%20II.jpg" alt="Portada de album" width="90">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/Viva%20la%20Vida%20Or%20Death%20And%20All%20His%20Friends.jpg" alt="Portada de album" width="90">
-  <img src="https://github.com/IsraelCarry22/IsraelCarry22/blob/main/X%26Y.jpg" alt="Portada de album" width="90">
-</span>
-
+  - Juego a los bolos y al billar con amigos.
+  - Juego videojuegos retro de nintendo, como Mario, Zelda, Metroid, etc.
+  - Me gusta escuhcar Coldplay, Imagine dragons, The Marias, Kodaline, Gorillaz, Daft Punk, Cuco, Joji y mas</br>
