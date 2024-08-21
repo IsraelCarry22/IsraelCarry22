@@ -18,8 +18,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge)
-![SQLSERVERMANAGMENT](https://img.shields.io/badge/SQL%20Server%20Managment-%23221E68?style=for-the-badge)
-
 
 - Frameworks:</br>
 ![NET](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge)
@@ -27,6 +25,7 @@
 - Base de datos/Servidores:</br>
 ![MYSQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge)
 ![Plesk](https://img.shields.io/badge/Plesk-%230085C0?style=for-the-badge)
+![SQLSERVERMANAGMENT](https://img.shields.io/badge/SQL%20Server%20Managment-%23221E68?style=for-the-badge)
 
 ## 💼 Habilidades de trabajo:
 - Comunicacion efectiva.
